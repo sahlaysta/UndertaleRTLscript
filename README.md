@@ -1,12 +1,12 @@
 # UndertaleRTLscript
 a script of UndertaleModTool for lettering in right-to-left
 
-To trigger right-to-left, run the script in UndertaleModTool. You only have to do it once on a file.
-Then start the string with:
-(ts:[x],[spacing])
-Where [x] is the x pixel-coordinate of the text, and [spacing] is the spacing in pixels between each letter. It takes negative values, so right-to-left is possible.
+To use right-to-left, run the script in UndertaleModTool. You only have to do this once.
 
-Example:
+
+Start any string that you want in right-to-left with: `(ts:[x],[spacing])` where `x` is the exact pixel-location of the text, and [spacing] is the spacing in pixels between each letter. You will have to figure these out yourself, but these examples may help you:
+
+Examples:
 
 ```
 (ts:200,-8)* (The shadow of the ruins&  looms above^1, filling you with&  determination.)/

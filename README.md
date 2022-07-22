@@ -4,7 +4,7 @@ a script of UndertaleModTool for lettering in right-to-left
 To use right-to-left, run the script [RTLv2.csx](RTLv2.csx) in UndertaleModTool. You only have to do this once per data.win.
 
 
-Start any string that you want in right-to-left with: `(ts:x,spacing)` where `x` is the exact pixel-location of the text, and `spacing` is the spacing in pixels between each letter. You will have to figure these out yourself, but these examples may help you:
+Start any string that you want in right-to-left with: `(ts:x,spacing)` where `x` is the exact pixel-location of the text (relative to original position), and `spacing` is the spacing in pixels between each letter. You will have to figure these out yourself, but these examples may help you:
 
 Examples:
 

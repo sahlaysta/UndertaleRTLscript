@@ -1,6 +1,8 @@
 # UndertaleRTLscript
 a script of UndertaleModTool for lettering in right-to-left
 
+Undertale version v1.08
+
 To use right-to-left, run the script [RTLv2.csx](RTLv2.csx) in UndertaleModTool. You only have to do this once per data.win.
 
 
